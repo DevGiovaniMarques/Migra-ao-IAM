@@ -8,5 +8,14 @@ Haviam 100 usuários que precisaram ser migrados e ter o MFA — Autenticação 
 Para não ser uma tarefa repetitiva e manual na console da AWS, precisei ter o pensamento voltado a automatizar os processos.
 
 Essa é a arquitetura usada no projeto:
-![alt text](http://url/to/img.png)
+
+![alt text](PORTFOLIOPROJETOAWSMODULO2_ARQUITETURA-220608-211757.png)
+
+Para executar o projeto foi necessário executar um script no AWS CloudShell para automatizar o processo.
+
+Os passos foram:
+
+1º Criar todos os 5 Grupos que serão utilizados dentro do AWS.
+
+![alt text](PORTFOLIOPROJETOAWSMODULO2_ARQUITETURA-220608-211757.png)
 
